@@ -10,12 +10,12 @@ const CONFIG = {
     linkedin: 'https://www.linkedin.com/in/guozi-liu-939a30221/',
     instagram: '',
   },
-//   projects: [
-//     {
-//       name: 'Untilled',
-//       href: 'https://untilled.web.app'
-//     }
-//   ],
+  projects: [
+    {
+      name: 'MARL for Inventory',
+      href: 'https://arxiv.org/abs/2212.07684'
+    }
+  ],
   // blog setting
   blog: {
     title: 'G.Z. Blog',
