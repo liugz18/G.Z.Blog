@@ -3,28 +3,28 @@ const CONFIG = {
   profile: {
     name: 'morethanmin',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: 'frontend developer',
+    role: 'software developer',
     bio: 'I develop everything using node.',
-    email: 'morethanmin.dev@gmail.com',
-    github: 'morethanmin',
-    linkedin: '',
+    email: 'liugztat@gmail.com',
+    github: 'liugz18',
+    linkedin: 'https://www.linkedin.com/in/guozi-liu-939a30221/',
     instagram: '',
   },
-  projects: [
-    {
-      name: 'Untilled',
-      href: 'https://untilled.web.app'
-    }
-  ],
+//   projects: [
+//     {
+//       name: 'Untilled',
+//       href: 'https://untilled.web.app'
+//     }
+//   ],
   // blog setting
   blog: {
-    title: 'morethan-log',
-    description: 'welcome to morethan-log!',
+    title: 'G.Z. Blog',
+    description: 'welcome to G.Z. Blog!',
     theme: 'auto' // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration
-  link: 'https://morethan-log.vercel.app',
+  link: 'https://g-z-blog.vercel.app',
   since: 2022, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
@@ -39,13 +39,13 @@ const CONFIG = {
 
   // plugin configuration
   googleAnalytics: {
-    enable: false,
+    enable: true,
     config: {
       measurementId: '' // ex. G-9N3FE0117Q
     }
   },
   googleSearchConsole: {
-    enable: false,
+    enable: true,
     config: {
       siteVerification: '' // ex. qvdR1gXMirk_DCUOKPgRnxu2x6fqSPrquYnEZZMjR9w
     }
