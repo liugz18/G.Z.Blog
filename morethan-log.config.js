@@ -1,13 +1,13 @@
 const CONFIG = {
   // profile setting
   profile: {
-    name: 'morethanmin',
-    image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: 'G.Z. Liu',
+    image: '/avatar_g.jpg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'software developer',
-    bio: 'I develop everything using node.',
+    bio: 'Full-stack Development, Machine Learning, Software Engineering.',
     email: 'liugztat@gmail.com',
     github: 'liugz18',
-    linkedin: 'https://www.linkedin.com/in/guozi-liu-939a30221/',
+    linkedin: 'guozi-liu-939a30221/',
     instagram: '',
   },
   projects: [
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting
   blog: {
     title: 'G.Z. Blog',
-    description: 'welcome to G.Z. Blog!',
+    description: 'Welcome to G.Z. Blog!',
     theme: 'auto' // ['light', 'dark', 'auto']
   },
 
